@@ -41,7 +41,7 @@ I'm a passionate software engineer pursuing my PhD in Computer Science at the Un
 ### 💬 Let's Connect!
 
 - 📫 **Email:** [epqjp5v9@anonaddy.me](mailto:epqjp5v9@anonaddy.me)
-- 🌐 **LinkedIn:** [linkedin.com/in/tejas558](#)
+- 🌐 **LinkedIn:** [https://www.linkedin.com/in/tejas558](https://www.linkedin.com/in/tejas558)
 
 ---
 
